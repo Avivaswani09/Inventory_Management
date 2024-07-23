@@ -1,0 +1,8 @@
+ProductID,Supplier,Country of origin,Shipping lead time in weeks,Production lead time in weeks
+A,Ank,Vietnam,1,4
+B,Hank,China,2,4
+C,Tank,China,3,2
+D,Frank,China,4,4
+E,Mank,Vietnam,5,5
+F,Crank,India,6,1
+G,Drank,India,7,8
